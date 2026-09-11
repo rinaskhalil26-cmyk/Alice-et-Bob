@@ -1,4 +1,4 @@
 # Alice-et-Bob
 
-voici Alice: Rinas
+voici Alice: Rinas khalil
 Et Bob : Smail
