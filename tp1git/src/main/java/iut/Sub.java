@@ -5,3 +5,7 @@ public class Sub {
         return  a - b;
     }
 }
+
+    public static void main(){
+        System.out.println("1 - 1 = " + sub(1,1));
+    }
